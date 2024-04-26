@@ -1,0 +1,12 @@
+# Juego Favorito
+print("=========== BINGO ===========\n")
+print("REGLAS DEL JUEGO:")
+print("1. Pueden participar de 2 o más jugadores (Existen 96.000 cartones distintos)")
+print("2. Por jugador se puede tener de 1 a 3 tarjetas")
+print("3. Se tiene una tómbola con bolillos enumerados del 1 al 100")
+print("4. También se debe tener disponible fichas identicas para marcar los números en el cartón")
+print("5. Un jugador participante o no participante puede empezar a girar la tombola para que los bolillos salgan")
+print("6. Cuando un jugador llena una fila debe cantar la palabra 'LOTA'")
+print("7. Cuando un jugador llena todo un carton debe cantar la palabra 'BINGO' y gana el juego")
+print("8. Si dos jugadores o mas llenaron el cartón al mismo tiempo ambos gaanan")
+print("9. Cuando un jugador gana se debe verificar los números del cartón con los que salierón de la tómbola")
